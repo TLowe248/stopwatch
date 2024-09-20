@@ -1,0 +1,1 @@
+Typescript is very strict about types. The query selectors needed specification to not be null, because otherwise the program would not compile. Additionally, things could be typed in order to be more specific as to what they do.
